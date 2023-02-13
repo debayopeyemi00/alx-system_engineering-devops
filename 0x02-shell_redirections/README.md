@@ -14,3 +14,4 @@ List of newest files and sorted
 unique files
 displaying lines with root pattern
 count words with bin
+16. display root patterns
