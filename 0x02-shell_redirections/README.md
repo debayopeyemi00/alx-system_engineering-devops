@@ -3,3 +3,4 @@
 2. script to display passed
 3. script to display both passwd and hosts
 4. Script to print last 10 limes of passwd
+5. print first lines of passwd'
