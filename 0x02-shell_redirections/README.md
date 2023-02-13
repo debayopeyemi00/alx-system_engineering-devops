@@ -8,3 +8,4 @@ display the third line of iacta
 7. script that creates file
 write into a file
 9. write the duplicate line into a file
+10. deletes regular file with .js
