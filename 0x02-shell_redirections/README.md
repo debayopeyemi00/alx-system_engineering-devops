@@ -12,3 +12,4 @@ write into a file
 11. count your directories
 List of newest files and sorted
 unique files
+displaying lines with root pattern
