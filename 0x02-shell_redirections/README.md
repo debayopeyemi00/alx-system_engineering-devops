@@ -15,3 +15,4 @@ unique files
 displaying lines with root pattern
 count words with bin
 16. display root patterns
+I hate this word
