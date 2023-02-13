@@ -13,3 +13,4 @@ write into a file
 List of newest files and sorted
 unique files
 displaying lines with root pattern
+count words with bin
