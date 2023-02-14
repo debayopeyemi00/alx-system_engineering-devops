@@ -1,2 +1,3 @@
 #!/bin/bash
-echo Academy | tr Ac Ze
+read -p Insert word:  
+echo  | tr Ac Ze
